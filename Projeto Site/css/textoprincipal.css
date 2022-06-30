@@ -1,0 +1,17 @@
+section{
+    background: rgba(255, 249, 249, 0.986);
+    font-size: 22pt;
+    }
+
+    h1{text-align:center;}
+
+    #box{
+    padding: 7px;
+    text-align: justify;
+    width:950px;
+    margin: auto;
+    border: solid 5px rgb(39, 3, 240);
+    border-radius: 10px;
+    font-size: 20pt;
+    column-count: 2;
+    }
